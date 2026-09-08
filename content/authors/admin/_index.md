@@ -1,186 +1,231 @@
 ---
-# Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
-
-# Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
+title: Осинцев Артем Викторович
+name_pronunciation: Osintsev Artem Viktorovich
+first_name: Артем
+last_name: Осинцев
 status:
-  icon: ☕️
-
-# Is this the primary user of the site?
+  icon: 🎓
 superuser: true
-
-# Highlight the author in author lists? (true/false)
 highlight_name: true
-
-# Role/position/tagline
-role: Chief Scientist
-
-# Organizations/Affiliations to display in Biography blox
+role: Кандидат технических наук | Системный архитектор | Руководитель научных и образовательных программ
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
-
-# Social network links
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+  - name: ТУСУР, НИЛ «БЭМС РЭС»
+    url: https://tusur.ru/
+  - name: ТГУ, Институт прикладной математики и компьютерных наук
+    url: https://tsu.ru/
+  - name: ООО «Инфоматикс»
+    url: ''
+location: Томск, Россия (готовность к релокации обсуждается)
+contact:
+  phone: +7 (952) 755-01-23
+  email: kubenet@gmail.com
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/gcushen
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: 'mailto:kubenet@gmail.com'
+    label: E-mail
   - icon: academicons/orcid
-    url: https://orcid.org/
-
+    url: https://orcid.org/0000-0003-0888-6793
+    label: ORCID
+  - icon: academicons/researcherid
+    url: https://www.webofscience.com/wos/author/record/6012183
+    label: Web of Science ResearcherID
+  - icon: academicons/scopus
+    url: https://www.scopus.com/authid/detail.uri?authorId=57190169104
+    label: Scopus Author ID
+  - icon: brands/github
+    url: https://github.com/kubenet
+    label: GitHub
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
+  - Machine Learning (ML)
+  - Computer Vision (CV)
+  - Natural Language Processing (NLP)
+  - Embedded Systems
+  - Research & Development (R&D)
+  - EdTech
+  - Robotics
+  - Architecture and System Design
+biography: |
+  Кандидат технических наук, системный архитектор и руководитель научных и образовательных проектов в области искусственного интеллекта, компьютерного зрения, встраиваемых систем и робототехники. Более 10 лет опыта на стыке академической науки, инженерной разработки и коммерциализации технологий. Автор и соавтор более 50 публикаций в рецензируемых изданиях (индекс Хирша – 5), 3 патентов РФ на изобретения и более 20 свидетельств о регистрации программ для ЭВМ. Опыт управления бюджетами НИОКР свыше 12 млн руб., руководства командами до 15 человек. Разработал и запустил образовательную программу магистратуры «Компьютерное зрение и искусственный интеллект» в ТГУ. Подготовил более 2 000 обучающихся. Основатель сообщества разработчиков встраиваемых систем EmbeddedSystems – более 22 000 участников.
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Кандидат технических наук
+    institution: Томский государственный университет систем управления и радиоэлектроники (ТУСУР)
+    date_start: 2017-01-01
+    date_end: 2021-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      Специальность 2.3.3 (05.13.06): Автоматизация и управление технологическими процессами и производствами
+      Диссертация: «Автоматизированная система управления для тестирования радиоэлектронных средств на температурные воздействия»
+  - area: Магистратура, Программная инженерия
+    institution: ТУСУР, Факультет систем управления
+    date_start: 2015-01-01
+    date_end: 2017-12-31
+    summary: Диплом с отличием
+  - area: Бакалавриат, Программное обеспечение вычислительной техники и автоматизированных систем
+    institution: ТУСУР, Факультет систем управления
+    date_start: 2011-01-01
+    date_end: 2015-12-31
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
+  - position: Руководитель направления разработки / Системный архитектор
+    company_name: ООО «Инфоматикс» (Infomatix)
+    date_start: 2022-02-01
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-
-# Skills
-# Add your own SVG icons to `assets/media/icons/`
+    summary: Управление командой из 5–7 инженеров. Разработка архитектуры и алгоритмов для систем мониторинга состояния водителя и подсчёта пассажиропотока в общественном транспорте. Системы на базе Edge-вычислений с локальным запуском CV-моделей. Внедрение в автопарках нескольких городов России.
+  - position: Старший научный сотрудник НИЛ «БЭМС РЭС» / Доцент кафедры ТУ
+    company_name: ТУСУР
+    company_url: https://tusur.ru/
+    date_start: 2015-08-01
+    date_end: ''
+    summary: Идеолог, главный архитектор и руководитель разработки программно-аппаратного комплекса «ЭМтест» (бюджет 12 млн руб.). Исполнитель проекта РНФ № 23-79-10165 (2023–2026). 8 актов внедрения ПО и аппаратных решений. Преподавание: программирование микроконтроллеров, ИИ, технологии разработки ПО.
+  - position: Руководитель образовательной программы ИДО «Компьютерное зрение и искусственный интеллект» / Доцент
+    company_name: ТГУ
+    company_url: https://tsu.ru/
+    date_start: 2024-01-01
+    date_end: ''
+    summary: Разработал и запустил образовательную программу «Компьютерное зрение и ИИ». В 2025 г. заключены соглашения с 6 индустриальными партнёрами. Научное руководство 8 НИР и магистерскими проектами.
+  - position: Наставник, педагог-методист
+    company_name: АНО ДО Технопарк «Кванториум»
+    date_start: 2017-09-01
+    date_end: 2023-12-31
+    summary: Подготовка команд-призёров всероссийских конкурсов. Благодарность за подготовку победителя конкурса «Большие вызовы» (ОЦ «Сириус», 2020).
+  - position: И.о. руководителя цифровой кафедры
+    company_name: ТПУ
+    date_start: 2024-02-01
+    date_end: 2024-12-31
+    summary: Организация учебного процесса, хакатонов и студенческих мероприятий. Член жюри проектных защит.
+  - position: Архитектор, ведущий разработчик
+    company_name: Стартап (IoT-система «Монитор холода»)
+    date_start: 2019-01-01
+    date_end: ''
+    summary: Проект внедрен в ФМБА г.Томск. В 2025 г. продажа прав на код заказчику из Великобритании (1,5 млн руб.).
 skills:
-  - name: Technical Skills
+  - name: Управление и лидерство
+    color: '#3b82f6'
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Стратегическое планирование
+        percent: 95
+        icon: academic-cap
+      - name: Управление бюджетами R&D
+        percent: 90
+        icon: currency-ruble
+      - name: Управление командами
+        percent: 90
+        icon: users
+  - name: Искусственный интеллект и компьютерное зрение
+    color: '#8b5cf6'
+    items:
+      - name: ML/DL архитектуры
+        percent: 90
+        icon: cpu-chip
+      - name: Компьютерное зрение
+        percent: 95
+        icon: eye
+      - name: Edge AI / TinyML
+        percent: 85
+        icon: device-mobile
+  - name: Встраиваемые системы и робототехника
+    color: '#10b981'
+    items:
+      - name: Микроконтроллеры и СнК
+        percent: 95
+        icon: microchip
+      - name: ОС реального времени
+        percent: 85
+        icon: server
+      - name: Протоколы и интерфейсы
+        percent: 90
+        icon: signal
+  - name: Отладка, тестирование и стандарты
+    color: '#f59e0b'
+    items:
+      - name: Аппаратная отладка
+        percent: 90
+        icon: wrench-screwdriver
+      - name: Тестирование (HIL/SIL)
+        percent: 85
+        icon: check-circle
+      - name: Электромагнитная совместимость
+        percent: 95
+        icon: bolt
+  - name: Программная инженерия и Backend
+    color: '#ef4444'
+    items:
+      - name: Языки программирования
+        percent: 95
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
-
+      - name: Backend frameworks
+        percent: 85
+        icon: square-3-stack-3d
+      - name: DevOps
+        percent: 85
+        icon: cloud-arrow-up
 languages:
-  - name: English
+  - name: Русский
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
-
-# Awards.
-#   Add/remove as many awards below as you like.
-#   Only `title`, `awarder`, and `date` are required.
-#   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
+  - name: Английский
+    percent: 80
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+  - title: Благодарственное письмо за научную работу
+    date: '2023-01-01'
+    awarder: ТУСУР
+    icon: academic-cap
+  - title: Победитель Intel AI Global Impact Festival 2021
+    date: '2021-01-01'
+    awarder: Intel
+    icon: cpu-chip
+  - title: Победитель конкурса Технологии умной клиники
+    date: '2021-01-01'
+    awarder: ФМБА России
+    icon: heart
+  - title: Победитель IT Академии Samsung
+    date: '2021-01-01'
+    awarder: Samsung
+    icon: device-mobile
+  - title: Благодарность за подготовку победителя Большие вызовы
+    date: '2020-01-01'
+    awarder: ОЦ Сириус
+    icon: trophy
+  - title: Стипендия Правительства РФ
+    date: '2019-01-01'
+    awarder: Правительство РФ
+    icon: academic-cap
+  - title: Гран-при VK Hackathon 2019
+    date: '2019-01-01'
+    awarder: VK
+    icon: code-bracket
+publications:
+  h_index: 5
+  total_publications: 50
+  orcid: '0000-0003-0888-6793'
+  scopus_id: '57190169104'
+  researcherid: '6012183'
+  patents: 3
+  software_certificates: 20
+community:
+  - name: EmbeddedSystems
+    members: 22000
+    role: Основатель
+    description: Сообщество разработчиков встраиваемых систем
 ---
 
-## About Me
+## Обо мне
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**ОСИНЦЕВ АРТЕМ ВИКТОРОВИЧ**
+
+Кандидат технических наук, системный архитектор и руководитель научных и образовательных проектов в области искусственного интеллекта, компьютерного зрения, встраиваемых систем и робототехники.
+
+### Ключевые достижения
+
+- **Научная деятельность:** Более 50 публикаций в рецензируемых изданиях (Scopus, Web of Science, ВАК, RSCI), индекс Хирша – 5. 3 патента РФ на изобретения, более 20 свидетельств о регистрации программ для ЭВМ.
+
+- **Управление НИОКР:** Опыт руководства разработкой программно-аппаратного комплекса «ЭМтест» с бюджетом проекта около 12 млн руб.
+
+- **Коммерциализация:** Продажа прав на программное решение заказчику из Великобритании на сумму около 1,5 млн руб. Внедрение решений в АО «ИСС» (Роскосмос), ФМБА России, ООО «ТЕСАРТ», ООО «Инфоматикс» – 8 актов внедрения.
+
+- **Образовательная программа:** Разработал с нуля и запустил программу «Компьютерное зрение и искусственный интеллект» (ТГУ). В 2025 г. заключены соглашения с 6 индустриальными партнёрами.
+
+- **Масштаб преподавания:** Более 2 000 обучающихся прошли через авторские курсы и программы – от школьных кружков до магистратуры и программ повышения квалификации.
+
+- **Профессиональное сообщество:** Основатель сообщества разработчиков встраиваемых систем EmbeddedSystems – более 22 000 участников.
+
+### Область научных интересов
+
+ML, CV, NLP, Embedded systems, R&D, EdTech, robotics, architecture and system design.
